@@ -1,0 +1,7 @@
+Figure out to integrate Hindi Alphabet into Alphabet.
+Take input. (Hindi)
+Fix Keyword early 
+Tokenise by rough sound.
+Convert to actual Python Code in English
+Back Translate Output into Hindi
+
